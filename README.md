@@ -6,6 +6,8 @@ This project demonstrates an **end-to-end data analytics pipeline using SQL Serv
 It covers data ingestion, exploration, KPI calculation, trend analysis, segmentation, and reporting using advanced SQL techniques.
 
 ---
+## 🖼️ Project Preview
+![Dashboard](docs/project_preview.png)
 
 ## 🎯 Objectives
 
