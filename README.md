@@ -142,8 +142,21 @@ git clone https://github.com/vaddeudaykumar200/sql-data-analytics-project.git
  'C:\your_path\datasets\gold.dim_customers.csv'
  ```
 ### 4. Run scripts in order
---- Database creation
----Table creation
+- Database creation
+- Table creation
 - Data loading
 - Analytics queries
 - Reporting views
+
+### 🧠 Learning Outcomes
+- Built a complete SQL-based analytics pipeline
+- Performed EDA using SQL
+- Applied window functions for analysis
+- Designed Star Schema for analytics
+- Created business-ready reporting views
+### 🚀 Future Improvements
+- Add stored procedures for automation
+- Add data quality validation layer
+- Build Power BI dashboard
+- Optimize queries using indexing
+- Add ER diagram
