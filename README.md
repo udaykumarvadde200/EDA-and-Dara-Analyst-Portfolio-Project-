@@ -1,5 +1,5 @@
 # 📊 SQL Data Analytics Portfolio Project
-
+A SQL-based end-to-end data analytics project transforming raw sales data into actionable business insights.
 ## 🚀 Overview
 This project demonstrates an **end-to-end data analytics pipeline using SQL Server**, transforming raw sales data into meaningful business insights.
 
