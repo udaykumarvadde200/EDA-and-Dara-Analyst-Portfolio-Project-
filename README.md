@@ -135,3 +135,4 @@ Includes:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/vaddeudaykumar200/sql-data-analytics-project.git
+- 2. Open SQL Server Management Studio
