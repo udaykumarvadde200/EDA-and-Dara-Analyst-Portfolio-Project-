@@ -10,6 +10,8 @@ It covers data ingestion, exploration, KPI calculation, trend analysis, segmenta
 
 ![Sales Analysis Result](docs/Results.jpg)
 
+Example output showing total sales by product category using SQL aggregation and joins.
+---
 ## 🎯 Objectives
 
 - Build a structured analytics database in SQL Server  
