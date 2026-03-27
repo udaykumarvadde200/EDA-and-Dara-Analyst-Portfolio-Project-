@@ -138,4 +138,12 @@ git clone https://github.com/vaddeudaykumar200/sql-data-analytics-project.git
 ```
 ### 2. Open SQL Server Management Studio
 ### 3. Update file paths
- ``` 'C:\your_path\datasets\gold.dim_customers.csv' ```
+ ```bash
+ 'C:\your_path\datasets\gold.dim_customers.csv'
+ ```
+### 4. Run scripts in order
+--- Database creation
+---Table creation
+- Data loading
+- Analytics queries
+- Reporting views
