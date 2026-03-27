@@ -163,6 +163,12 @@ git clone https://github.com/vaddeudaykumar200/sql-data-analytics-project.git
 - Build Power BI dashboard
 - Optimize queries using indexing
 - Add ER diagram
+## 📈 Key Insights
+
+- Top product categories contribute the majority of total revenue  
+- Customer segmentation identifies high-value (VIP) customers  
+- Sales trends vary significantly across time periods  
+- Certain products consistently outperform others  
 
 ### **Uday Kumar**  
 - Aspiring Software Engineer | Data Analytics Enthusiast  
