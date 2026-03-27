@@ -163,3 +163,8 @@ git clone https://github.com/vaddeudaykumar200/sql-data-analytics-project.git
 - Build Power BI dashboard
 - Optimize queries using indexing
 - Add ER diagram
+
+### **Uday Kumar**  
+- Aspiring Software Engineer | Data Analytics Enthusiast  
+- 📍 Andhra Pradesh, India  
+- 🔗 https://github.com/vaddeudaykumar200
