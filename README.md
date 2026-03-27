@@ -7,7 +7,8 @@ It covers data ingestion, exploration, KPI calculation, trend analysis, segmenta
 
 ---
 ## 🖼️ Project Preview
-![Dashboard](docs/project_preview.png)
+
+![Sales Analysis Result](docs/Results.jpg)
 
 ## 🎯 Objectives
 
