@@ -147,7 +147,7 @@ git clone https://github.com/vaddeudaykumar200/sql-data-analytics-project.git
 - Data loading
 - Analytics queries
 - Reporting views
-``` 
+  
 ### 🧠 Learning Outcomes
 - Built a complete SQL-based analytics pipeline
 - Performed EDA using SQL
